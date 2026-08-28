@@ -34,3 +34,5 @@ This project uses the **EuroSAT** dataset (RGB format) derived from Sentinel-2 s
   8. `Residential`
   9. `River`
   10. `SeaLake`
+ 
+.
