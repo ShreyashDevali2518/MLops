@@ -1,3 +1,7 @@
+## Semester III SEA Examination
+
+
+
 # Satellite Image Classification with DINOv2
 
 An end-to-end computer vision pipeline that fine-tunes Meta's **DINOv2** foundation model to classify Sentinel-2 satellite imagery into 10 distinct land cover classes using the EuroSAT dataset.
